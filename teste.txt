@@ -1,6 +1,8 @@
 10:49
-Informação adicional
+InformaÃ§Ã£o 
+adicional
 
 11:07
 
-Este é um teste de conflito
+Este Ã© um teste de conflito
+Teste1
